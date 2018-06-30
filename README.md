@@ -1,18 +1,18 @@
 # DDoS [![Build Status](https://travis-ci.com/OGFris/DDoS.svg?branch=master)](https://travis-ci.com/OGFris/DDoS)
 A DDoS program written in golang, this is made for learning purpose, using it may cause you troubles.
 
-### Developer
+## Developer
 - [@OGFris](https://twitter.com/OGFris)
 
-### Contributing
+## Contributing
  Every contribution is accepted as long as it's clear, clean and original.
  
-### Installation
- # You can download the compiled program here:
+## Installation
+ ### You can download the compiled program here:
  - [Windows](https://anonfile.com/X4W4ddfeb6/DDoS.exe)
  - [Linux](https://anonfile.com/g7Xbd6ffb4/DDoS)
  
-### License
+## License
  DDoS is under the [GNU General Public License v3.0](https://github.com/OGFris/DDoS/blob/master/LICENSE).
  
             DDoS  Copyright (C) 2018  Fris
