@@ -1,0 +1,9 @@
+language: go
+go: 
+  - 1.9.x
+  - 1.x
+
+script:
+ - go get -d ./...
+ - go test -v ./...
+ - go build -race -ldflags "-extldflags '-static'"
